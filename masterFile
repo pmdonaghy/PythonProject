@@ -1,5 +1,8 @@
 print('#JackEDITEDTHIS')
     
+def something():
+    print(x)
+    
 def makeGameArray(anyLetterArray):
     gameArray = []
     for i in range(0,99):
